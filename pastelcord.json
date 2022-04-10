@@ -34,7 +34,7 @@
           "#c7defc"
        ],
        "BACKGROUND_PRIMARY": [
-          "#D6C7FC",
+          "#604e8a",
           "#c7defc"
        ],
        "BACKGROUND_SECONDARY": [
@@ -58,7 +58,7 @@
           "#c7defc"
        ],
        "BACKGROUND_MOBILE_PRIMARY": [
-          "#D6C7FC",
+          "#604e8a",
           "#c7defc"
        ],
        "BACKGROUND_MOBILE_SECONDARY": [
@@ -115,7 +115,7 @@
        ]
     },
     "colours": {
-       "PRIMARY_DARK": "#D6C7FC",
+       "PRIMARY_DARK": "#604e8a",
        "PRIMARY_DARK_100": "#c7defc",
        "PRIMARY_DARK_200": "#c7defc",
        "PRIMARY_DARK_300": "#B6B6B6",
