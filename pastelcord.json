@@ -11,11 +11,11 @@
       ],
       "TEXT_NORMAL": [
          "#000000",
-         "#EAE4E9"
+         "#000000"
       ],
       "TEXT_MUTED": [
-         "#B6B6B6",
-         "#EAE4E9"
+         "#000000",
+         "#000000"
       ],
       "INTERACTIVE_NORMAL": [
          "#C8C8C8",
@@ -90,16 +90,16 @@
          "#EAE4E9"
       ],
       "SCROLLBAR_THIN_THUMB": [
-         "#292929",
-         "#EAE4E9"
+         "#FAD2E1",
+         "#FAD2E1"
       ],
       "SCROLLBAR_THIN_TRACK": [
          "transparent",
-         "#EAE4E9"
+         "#FAD2E1"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-         "#292929",
-         "#EAE4E9"
+         "#FAD2E1",
+         "#FAD2E1"
       ],
       "SCROLLBAR_AUTO_TRACK": [
          "rgba(0, 0, 0, 0.1)",
