@@ -60,7 +60,7 @@
          "#3d2e4d"
       ],
       "BACKGROUND_MODIFIER_ACCENT":[
-         "hsla(0, 0%, 100%, 0.06)"
+         "rgba(255, 255, 255, 0.0006)"
       ],
       "SCROLLBAR_THIN_THUMB":[
          "#b3a5c0"
